@@ -1,0 +1,383 @@
+[
+    {
+        "image": null,
+        "question": "Complete the sentence.\nYour breath becoming visible on a cold day is a ().",
+        "choices": [
+            "chemical change",
+            "physical change"
+        ],
+        "answer": "B",
+        "hint": "",
+        "task": "closed choice",
+        "grade": "grade6",
+        "subject": "natural science",
+        "topic": "chemistry",
+        "category": "Chemical reactions",
+        "skill": "Compare physical and chemical changes",
+        "lecture": "Matter is made of very small particles called atoms. Atoms can be linked together by chemical bonds. When two or more atoms link together, they form a molecule.\nIn a chemical change, the chemical bonds in the molecules break. The atoms then link together to form new molecules. The types of molecules in matter before and after a chemical change are always different.\nBurning a piece of paper is a chemical change. As paper burns, paper molecules react with oxygen molecules in the air. This reaction breaks the chemical bonds in the molecules. The atoms then relink and form different molecules. For example, carbon dioxide molecules are created when paper burns.\nIn a physical change, chemical bonds do not break. The types of molecules in matter before and after a physical change are always the same.\nA change of state is a type of physical change. For example, water vaporizing is a physical change. Liquid water and water vapor are made of the same type of matter: water.",
+        "solution": "Your breath becoming visible on a cold day is a change of state. So, it is a physical change. Water vapor in your breath touches the cold air outside and becomes liquid. The water vapor changes state, but it is made of water. A different type of matter is not formed.",
+        "input": "",
+        "instruction": "Context: N/A\nQuestion: Complete the sentence.\nYour breath becoming visible on a cold day is a ().\nOptions: (A) chemical change (B) physical change\n",
+        "output": "Answer: The answer is B."
+    },
+    {
+        "image": null,
+        "question": "Is there a sentence fragment?\nAt a latitude of seventy degrees north, Tromsø is Norway's northernmost city. Moreover, it is one of the best places on the planet to view the northern lights, or aurora borealis.",
+        "choices": [
+            "no",
+            "yes"
+        ],
+        "answer": "A",
+        "hint": "",
+        "task": "yes or no",
+        "grade": "grade12",
+        "subject": "language science",
+        "topic": "writing-strategies",
+        "category": "Sentences, fragments, and run-ons",
+        "skill": "Identify sentence fragments",
+        "lecture": "A sentence is a group of words that expresses a complete thought.\nThe band I'm in has been rehearsing daily because we have a concert in two weeks.\nA sentence fragment is a group of words that does not express a complete thought.\nRehearsing daily because we have a concert in two weeks.\nThis fragment is missing a subject. It doesn't tell who is rehearsing.\nThe band I'm in.\nThis fragment is missing a verb. It doesn't tell what the band I'm in is doing.\nBecause we have a concert in two weeks.\nThis fragment is missing an independent clause. It doesn't tell what happened because of the concert.",
+        "solution": "There is not a sentence fragment. These are complete sentences because they express complete thoughts.\nAt a latitude of seventy degrees north, Tromsø is Norway's northernmost city. Moreover, it is one of the best places on the planet to view the northern lights, or aurora borealis.",
+        "input": "",
+        "instruction": "Context: N/A\nQuestion: Is there a sentence fragment?\nAt a latitude of seventy degrees north, Tromsø is Norway's northernmost city. Moreover, it is one of the best places on the planet to view the northern lights, or aurora borealis.\nOptions: (A) no (B) yes\n",
+        "output": "Answer: The answer is A."
+    },
+    {
+        "image": null,
+        "question": "Suppose Janice decides to watch the comedy. Which result would be a cost?",
+        "choices": [
+            "Janice will get to watch the movie that she is more excited about.",
+            "Janice will give up the chance to watch a movie with her sister."
+        ],
+        "answer": "B",
+        "hint": "Janice is deciding whether to watch a comedy or an action movie. She would prefer to watch a comedy. But she also wants to watch a movie with her sister. Janice's sister will only watch an action movie.",
+        "task": "closed choice",
+        "grade": "grade4",
+        "subject": "social science",
+        "topic": "economics",
+        "category": "Basic economic principles",
+        "skill": "Costs and benefits",
+        "lecture": "Before you decide to do something, it is often helpful to list costs and benefits.\nCosts are what you give up or spend when you decide to do something. Costs involve giving up things that you want or need.\nBenefits are what you gain or save when you decide to do something. Benefits involve gaining something that you want or need.",
+        "solution": "This result is a cost. It involves giving up or spending something that Janice wants or needs:\nJanice will give up the chance to watch a movie with her sister.",
+        "input": "",
+        "instruction": "Context: Janice is deciding whether to watch a comedy or an action movie. She would prefer to watch a comedy. But she also wants to watch a movie with her sister. Janice's sister will only watch an action movie.\nQuestion: Suppose Janice decides to watch the comedy. Which result would be a cost?\nOptions: (A) Janice will get to watch the movie that she is more excited about. (B) Janice will give up the chance to watch a movie with her sister.\n",
+        "output": "Answer: The answer is B."
+    },
+    {
+        "image": null,
+        "question": "Which correctly shows the title of a short story?",
+        "choices": [
+            "The Gift of the Magi",
+            "\"The Gift of the Magi\""
+        ],
+        "answer": "B",
+        "hint": "",
+        "task": "closed choice",
+        "grade": "grade9",
+        "subject": "language science",
+        "topic": "punctuation",
+        "category": "Formatting",
+        "skill": "Formatting titles",
+        "lecture": "The title of a book, movie, play, TV show, magazine, or newspaper should be in italics. If you write it by hand, it can be underlined instead.\nA Midsummer Night's Dream\nThe title of a poem, song, article, or short story should be in quotation marks.\n\"You Are My Sunshine\"",
+        "solution": "A short story should be in quotation marks.\nThe correct title is \"The Gift of the Magi.\"",
+        "input": "",
+        "instruction": "Context: N/A\nQuestion: Which correctly shows the title of a short story?\nOptions: (A) The Gift of the Magi (B) \"The Gift of the Magi\"\n",
+        "output": "Answer: The answer is B."
+    },
+    {
+        "image": null,
+        "question": "The city of Belmont has been one of the world's biggest makers of cough drops for many years. But last month, Belmont's cough drop factories were destroyed by floods. What will probably happen to the overall supply of cough drops?",
+        "choices": [
+            "The supply will probably go down.",
+            "The supply will probably go up."
+        ],
+        "answer": "A",
+        "hint": "",
+        "task": "closed choice",
+        "grade": "grade3",
+        "subject": "social science",
+        "topic": "economics",
+        "category": "Supply and demand",
+        "skill": "Understand overall supply and demand",
+        "lecture": "Overall supply is the total amount of a good or service that producers make and sell. There are several things that can make overall supply go up or down. The table below shows how changes to these things might affect overall supply.\n | Resources | Number of producers or suppliers | Expected change in demand\nSupply goes up | when resources cost less or are easier to get | when there are more producers or suppliers | when demand is expected to go up\nSupply goes down | when resources cost more or are harder to get | when there are fewer producers or suppliers | when demand is expected to go down\nProducers are people or companies that make goods or provide services. Suppliers are people or companies that sell goods or services. New inventions or technologies can also help workers produce goods and services more quickly. As a result of these changes, the supply of a good or service will often go up.",
+        "solution": "Floods destroyed the cough drop factories in Belmont. The number of producers of cough drops went down. So, the supply of cough drops will probably go down.",
+        "input": "",
+        "instruction": "Context: N/A\nQuestion: The city of Belmont has been one of the world's biggest makers of cough drops for many years. But last month, Belmont's cough drop factories were destroyed by floods. What will probably happen to the overall supply of cough drops?\nOptions: (A) The supply will probably go down. (B) The supply will probably go up.\n",
+        "output": "Answer: The answer is A."
+    },
+    {
+        "image": null,
+        "question": "Which is harder?",
+        "choices": [
+            "ceramic plate",
+            "paper bag"
+        ],
+        "answer": "A",
+        "hint": "",
+        "task": "closed choice",
+        "grade": "grade2",
+        "subject": "natural science",
+        "topic": "physics",
+        "category": "Materials",
+        "skill": "Compare properties of materials",
+        "lecture": "Every object is made of one or more materials. A material is a type of matter. Wood, glass, metal, and plastic are common materials.\nA material has different properties. A material's properties tell you how it looks, feels, tastes, or smells.",
+        "solution": "Hard is a property. A hard material keeps its shape when you press on it with your finger.\nLook at each picture, one at a time. Imagine pushing on the material shown in each picture.\nOf the choices, the ceramic plate is harder. If you press on a piece of ceramic, it will not change shape.",
+        "input": "",
+        "instruction": "Context: N/A\nQuestion: Which is harder?\nOptions: (A) ceramic plate (B) paper bag\n",
+        "output": "Answer: The answer is A."
+    },
+    {
+        "image": null,
+        "question": "What information supports the conclusion that Naomi acquired this trait?",
+        "choices": [
+            "Some scars fade more quickly than others.",
+            "Naomi's scar was caused by an accident. She cut her leg when she was climbing a tree."
+        ],
+        "answer": "B",
+        "hint": "Read the description of a trait.\nNaomi has a scar on her left leg.",
+        "task": "closed choice",
+        "grade": "grade6",
+        "subject": "natural science",
+        "topic": "biology",
+        "category": "Genes to traits",
+        "skill": "Inherited and acquired traits: use evidence to support a statement",
+        "lecture": "Organisms, including people, have both inherited and acquired traits. Inherited and acquired traits are gained in different ways.\nInherited traits are passed down from biological parents to their offspring through genes. Genes are pieces of hereditary material that contain the instructions that affect inherited traits. Offspring receive their genes, and therefore gain their inherited traits, from their biological parents. Inherited traits do not need to be learned.\nAcquired traits are gained during a person's life. Some acquired traits, such as riding a bicycle, are gained by learning. Other acquired traits, such as scars, are caused by the environment. Parents do not pass acquired traits down to their offspring.",
+        "solution": "",
+        "input": "",
+        "instruction": "Context: Read the description of a trait.\nNaomi has a scar on her left leg.\nQuestion: What information supports the conclusion that Naomi acquired this trait?\nOptions: (A) Some scars fade more quickly than others. (B) Naomi's scar was caused by an accident. She cut her leg when she was climbing a tree.\n",
+        "output": "Answer: The answer is B."
+    },
+    {
+        "image": null,
+        "question": "Does this passage describe the weather or the climate?\nHector put on an extra pair of socks this morning because it was so cold.",
+        "choices": [
+            "weather",
+            "climate"
+        ],
+        "answer": "A",
+        "hint": "Hint: Weather is what the atmosphere is like at a certain place and time. Climate is the pattern of weather in a certain place.",
+        "task": "closed choice",
+        "grade": "grade3",
+        "subject": "natural science",
+        "topic": "earth-science",
+        "category": "Weather and climate",
+        "skill": "What's the difference between weather and climate?",
+        "lecture": "The atmosphere is the layer of air that surrounds Earth. Both weather and climate tell you about the atmosphere.\nWeather is what the atmosphere is like at a certain place and time. Weather can change quickly. For example, the temperature outside your house might get higher throughout the day.\nClimate is the pattern of weather in a certain place. For example, summer temperatures in New York are usually higher than winter temperatures.",
+        "solution": "Read the text carefully.\nHector put on an extra pair of socks this morning because it was so cold.\nThis passage tells you about the temperature this morning where Hector lives. It describes the atmosphere at a certain place and time. So, this passage describes the weather.",
+        "input": "",
+        "instruction": "Context: Hint: Weather is what the atmosphere is like at a certain place and time. Climate is the pattern of weather in a certain place.\nQuestion: Does this passage describe the weather or the climate?\nHector put on an extra pair of socks this morning because it was so cold.\nOptions: (A) weather (B) climate\n",
+        "output": "Answer: The answer is A."
+    },
+    {
+        "image": null,
+        "question": "Would you find the word pep on a dictionary page with the following guide words?\nproof - purify",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "B",
+        "hint": "",
+        "task": "yes or no",
+        "grade": "grade5",
+        "subject": "language science",
+        "topic": "reference-skills",
+        "category": "Reference skills",
+        "skill": "Use guide words",
+        "lecture": "Guide words appear on each page of a dictionary. They tell you the first word and last word on the page. The other words on the page come between the guide words in alphabetical order.\nTo put words in alphabetical order, put them in order by their first letters. If the first letters are the same, look at the second letters. If the second letters are the same, look at the third letters, and so on.\nIf one word is shorter, and there are no more letters to compare, then the shorter word comes first in alphabetical order. For example, be comes before bed.",
+        "solution": "Put the words in alphabetical order.\nSince pep is not between the guide words proof - purify, it would not be found on that page.",
+        "input": "",
+        "instruction": "Context: N/A\nQuestion: Would you find the word pep on a dictionary page with the following guide words?\nproof - purify\nOptions: (A) yes (B) no\n",
+        "output": "Answer: The answer is B."
+    },
+    {
+        "image": null,
+        "question": "Select the animal that has a backbone.",
+        "choices": [
+            "fly",
+            "cassowary"
+        ],
+        "answer": "B",
+        "hint": "Hint: Mammals, birds, fish, reptiles, and amphibians all have backbones.",
+        "task": "closed choice",
+        "grade": "grade2",
+        "subject": "natural science",
+        "topic": "biology",
+        "category": "Classification",
+        "skill": "Identify animals with and without backbones",
+        "lecture": "Some animals have a backbone. The backbone is made of many bones in an animal's back. An animal's backbone helps connect the different parts of its body. In the drawings below, each animal's backbone is colored orange.\nOther animals do not have a backbone. In fact, these animals don't have any bones! Some animals without backbones have a hard outer cover. Other animals have a soft body.",
+        "solution": "A cassowary is a bird. Like other birds, a cassowary has a backbone.\nA fly is an insect. Like other insects, a fly does not have a backbone. It has a hard outer cover.",
+        "input": "",
+        "instruction": "Context: Hint: Mammals, birds, fish, reptiles, and amphibians all have backbones.\nQuestion: Select the animal that has a backbone.\nOptions: (A) fly (B) cassowary\n",
+        "output": "Answer: The answer is B."
+    },
+    {
+        "image": null,
+        "question": "Which closing is correct for a letter?",
+        "choices": [
+            "Love,\nJosh",
+            "love,\nJosh"
+        ],
+        "answer": "A",
+        "hint": "",
+        "task": "closed choice",
+        "grade": "grade4",
+        "subject": "language science",
+        "topic": "punctuation",
+        "category": "Formatting",
+        "skill": "Greetings and closings of letters",
+        "lecture": "A letter starts with a greeting and ends with a closing. For each one, capitalize the first word and end with a comma. You should also capitalize proper nouns, such as Aunt Sue.\nDear Aunt Sue,\nI'm glad you could come to my party, and\nthank you for the birthday gift. I could not have\nasked for a better one! Every time I see it, I think\nof you.\nWith love,\nRory",
+        "solution": "The second closing is correct:\nIts first word is capitalized, and it ends with a comma.",
+        "input": "",
+        "instruction": "Context: N/A\nQuestion: Which closing is correct for a letter?\nOptions: (A) Love,\nJosh (B) love,\nJosh\n",
+        "output": "Answer: The answer is A."
+    },
+    {
+        "image": null,
+        "question": "Is a pencil a good or a service?",
+        "choices": [
+            "a service",
+            "a good"
+        ],
+        "answer": "B",
+        "hint": "",
+        "task": "closed choice",
+        "grade": "grade2",
+        "subject": "social science",
+        "topic": "economics",
+        "category": "Economics",
+        "skill": "Goods and services",
+        "lecture": "Everything you can buy is either a good or a service.\nA good is something you can touch or hold in your hands. For example, a hammer is a good.\nA service is a job you pay someone else to do. For example, cooking food in a restaurant is a service.",
+        "solution": "To decide whether a pencil is a good or a service, ask these questions:\nIs a pencil something you can touch? Yes.\nIs a pencil a job you might pay someone else to do? No.\nSo, a pencil is a good.",
+        "input": "",
+        "instruction": "Context: N/A\nQuestion: Is a pencil a good or a service?\nOptions: (A) a service (B) a good\n",
+        "output": "Answer: The answer is B."
+    },
+    {
+        "image": null,
+        "question": "Oranges do not grow well in cold temperatures. After an unusually cold winter, what will probably happen to the overall supply of oranges?",
+        "choices": [
+            "The supply will probably go up.",
+            "The supply will probably go down."
+        ],
+        "answer": "B",
+        "hint": "",
+        "task": "closed choice",
+        "grade": "grade7",
+        "subject": "social science",
+        "topic": "economics",
+        "category": "Supply and demand",
+        "skill": "Understand overall supply and demand",
+        "lecture": "Overall supply is the total amount of a good or service that producers make and sell. There are several things that can make overall supply go up or down. The table below shows how changes to these things might affect overall supply.\n | Resources | Number of producers or suppliers | Expected change in demand\nSupply goes up | when resources cost less or are easier to get | when there are more producers or suppliers | when demand is expected to go up\nSupply goes down | when resources cost more or are harder to get | when there are fewer producers or suppliers | when demand is expected to go down\nProducers are people or companies that make goods or provide services. Suppliers are people or companies that sell goods or services. New inventions or technologies can also help workers produce goods and services more quickly. As a result of these changes, the supply of a good or service will often go up.",
+        "solution": "Cold weather makes it more difficult to grow oranges. Fewer oranges will be grown, and there will probably be fewer oranges to sell. The overall supply of oranges will probably go down. The oranges, which are resources, are harder to get.",
+        "input": "",
+        "instruction": "Context: N/A\nQuestion: Oranges do not grow well in cold temperatures. After an unusually cold winter, what will probably happen to the overall supply of oranges?\nOptions: (A) The supply will probably go up. (B) The supply will probably go down.\n",
+        "output": "Answer: The answer is B."
+    },
+    {
+        "image": null,
+        "question": "Which of the following contains a vague pronoun reference?",
+        "choices": [
+            "Steve gave a beautifully bound copy of his favorite book, One Hundred Years of Solitude, to Jake.",
+            "Steve gave Jake a beautifully bound copy of One Hundred Years of Solitude, which is his favorite book."
+        ],
+        "answer": "B",
+        "hint": "",
+        "task": "closed choice",
+        "grade": "grade11",
+        "subject": "language science",
+        "topic": "writing-strategies",
+        "category": "Pronouns",
+        "skill": "Identify vague pronoun references",
+        "lecture": "When writing, make sure to avoid vague pronoun references. A vague pronoun reference occurs when a pronoun could refer to more than one possible antecedent.\nWhen Lisa and Kim finally landed, she breathed a sigh of relief.\nThe pronoun she could refer to either Lisa or Kim, so the meaning of the sentence is unclear.\nVague pronoun references can be corrected in one of two ways:\n1. Replace the pronoun with its correct antecedent:\nWhen Lisa and Kim finally landed, Lisa breathed a sigh of relief.\n2. Rewrite the sentence:\nLisa breathed a sigh of relief when she and Kim finally landed.\nA vague pronoun reference also occurs when they, them, their, theirs, it, or its is used without its antecedent.\nThey say that this nail polish dries in less than five minutes.\nThe pronoun they is used without its antecedent, so the meaning of the sentence is unclear.\nThis problem can be fixed by replacing the pronoun with its missing antecedent.\nThe advertisements say that this nail polish dries in less than five minutes.",
+        "solution": "The second answer choice contains a vague pronoun reference. The pronoun his could refer to Steve or Jake.\nSteve gave Jake a beautifully bound copy of One Hundred Years of Solitude, which is his favorite book.\nThe first answer choice shows a possible correction for the vague pronoun reference. The text has been rewritten so that the meaning is clear.\nSteve gave a beautifully bound copy of his favorite book, One Hundred Years of Solitude, to Jake.",
+        "input": "",
+        "instruction": "Context: N/A\nQuestion: Which of the following contains a vague pronoun reference?\nOptions: (A) Steve gave a beautifully bound copy of his favorite book, One Hundred Years of Solitude, to Jake. (B) Steve gave Jake a beautifully bound copy of One Hundred Years of Solitude, which is his favorite book.\n",
+        "output": "Answer: The answer is B."
+    },
+    {
+        "image": null,
+        "question": "Which type of sentence is this?\nMartina is a competitive horseback rider, and she will be competing in the next World Equestrian Games, which are held every four years.",
+        "choices": [
+            "simple",
+            "complex",
+            "compound-complex",
+            "compound"
+        ],
+        "answer": "C",
+        "hint": "",
+        "task": "closed choice",
+        "grade": "grade7",
+        "subject": "language science",
+        "topic": "grammar",
+        "category": "Phrases and clauses",
+        "skill": "Is the sentence simple, compound, complex, or compound-complex?",
+        "lecture": "A clause is a group of words that contains both a subject and a predicate.\nAn independent clause is a complete thought that can stand alone as a sentence. A dependent clause (or subordinate clause) is not a complete thought and cannot stand alone as a sentence.\nthe oranges on our tree are ripe\nThe clause can stand alone. It is independent.\nafter we pick up Kevin from work\nThe clause cannot stand alone. It is dependent.\nA simple sentence is made up of a single independent clause.\nBen and I spent all day relaxing by the pool.\nSome simple sentences have introductory phrases, but the introductory phrase is part of the predicate.\nIn the winter, Ben usually wears his heavy coat.\nBen usually wears his heavy coat in the winter.\nA compound sentence is made up of two independent clauses joined by a coordinating conjunction such as and, but, or, or so.\nWe saw the flash of lightning, and seconds later we heard a rumble of thunder.\nA complex sentence is made up of an independent clause and a dependent clause. The dependent clause in a complex sentence usually begins with a subordinating conjunction or relative pronoun. Subordinating conjunctions include after, although, as, because, before, if, since, unless, until, when, and while. Relative pronouns include that, which, who, whom, or whose.\nIf she ever gets the chance, Terri would love to visit the Egyptian pyramids.\nDuring his trip to Italy, Tony visited the Trevi Fountain, which is in Rome.\nA compound-complex sentence is made up of two or more independent clauses and one or more dependent clauses.\nAfter Samantha left work, she stopped at the bank, and then she went to the gym.\nSometimes a dependent clause in a complex or compound-complex sentence can interrupt an independent clause.\nOrcas that are kept in captivity often have bent dorsal fins.",
+        "solution": "The sentence is compound-complex. It is made up of two independent clauses and a dependent clause. The dependent clause begins with the relative pronoun which.\nMartina is a competitive horseback rider, and she will be competing in the next World Equestrian Games, which are held every four years.",
+        "input": "",
+        "instruction": "Context: N/A\nQuestion: Which type of sentence is this?\nMartina is a competitive horseback rider, and she will be competing in the next World Equestrian Games, which are held every four years.\nOptions: (A) simple (B) complex (C) compound-complex (D) compound\n",
+        "output": "Answer: The answer is C."
+    },
+    {
+        "image": null,
+        "question": "Using only these supplies, which question can Dustin investigate with an experiment?",
+        "choices": [
+            "Do toy cars with plastic wheels go faster down the cardboard ramp than toy cars with metal wheels?",
+            "Does a big toy car go down the wooden ramp faster than a small toy car?",
+            "Do toy cars go faster down the ramp made of wood or the ramp made of cardboard?"
+        ],
+        "answer": "C",
+        "hint": "Dustin and his sister are building ramps to race their toy cars down. Dustin notices that the cars go down some of the ramps faster than others. He wonders what factors affect the cars' speed. So, he decides to design an experiment. He has the following supplies available:\ntwo identical toy cars\na wooden ramp three feet long and two feet tall\na cardboard ramp three feet long and two feet tall",
+        "task": "closed choice",
+        "grade": "grade7",
+        "subject": "natural science",
+        "topic": "science-and-engineering-practices",
+        "category": "Designing experiments",
+        "skill": "Identify questions that can be investigated with a set of materials",
+        "lecture": "Experiments can be designed to answer specific questions. When designing an experiment, you must identify the supplies that are necessary to answer your question. In order to do this, you need to figure out what will be tested and what will be measured during the experiment.\nImagine that you are wondering if plants grow to different heights when planted in different types of soil. How might you decide what supplies are necessary to conduct this experiment?\nFirst, you need to identify the part of the experiment that will be tested, which is the independent variable. This is usually the part of the experiment that is different or changed. In this case, you would like to know how plants grow in different types of soil. So, you must have different types of soil available.\nNext, you need to identify the part of the experiment that will be measured or observed, which is the dependent variable. In this experiment, you would like to know if some plants grow taller than others. So, you must be able to compare the plants' heights. To do this, you can observe which plants are taller by looking at them, or you can measure their exact heights with a meterstick.\nSo, if you have different types of soil and can observe or measure the heights of your plants, then you have the supplies you need to investigate your question with an experiment!",
+        "solution": "",
+        "input": "",
+        "instruction": "Context: Dustin and his sister are building ramps to race their toy cars down. Dustin notices that the cars go down some of the ramps faster than others. He wonders what factors affect the cars' speed. So, he decides to design an experiment. He has the following supplies available:\ntwo identical toy cars\na wooden ramp three feet long and two feet tall\na cardboard ramp three feet long and two feet tall\nQuestion: Using only these supplies, which question can Dustin investigate with an experiment?\nOptions: (A) Do toy cars with plastic wheels go faster down the cardboard ramp than toy cars with metal wheels? (B) Does a big toy car go down the wooden ramp faster than a small toy car? (C) Do toy cars go faster down the ramp made of wood or the ramp made of cardboard?\n",
+        "output": "Answer: The answer is C."
+    },
+    {
+        "image": null,
+        "question": "What information supports the conclusion that Kristen acquired this trait?",
+        "choices": [
+            "Some scars fade more quickly than others.",
+            "Kristen's scar was caused by an accident. She cut her leg when she was climbing a tree."
+        ],
+        "answer": "B",
+        "hint": "Read the description of a trait.\nKristen has a scar on her left leg.",
+        "task": "closed choice",
+        "grade": "grade3",
+        "subject": "natural science",
+        "topic": "biology",
+        "category": "Heredity",
+        "skill": "Inherited and acquired traits: use evidence to support a statement",
+        "lecture": "Organisms, including people, have both inherited and acquired traits. Inherited and acquired traits are gained in different ways.\nInherited traits are passed down through families. Children gain these traits from their parents. Inherited traits do not need to be learned.\nAcquired traits are gained during a person's life. Some acquired traits, such as riding a bicycle, are gained by learning. Other acquired traits, such as scars, are caused by the environment.",
+        "solution": "",
+        "input": "",
+        "instruction": "Context: Read the description of a trait.\nKristen has a scar on her left leg.\nQuestion: What information supports the conclusion that Kristen acquired this trait?\nOptions: (A) Some scars fade more quickly than others. (B) Kristen's scar was caused by an accident. She cut her leg when she was climbing a tree.\n",
+        "output": "Answer: The answer is B."
+    },
+    {
+        "image": null,
+        "question": "Does this passage describe the weather or the climate?\nTopeka, Kansas, is located in an open prairie. So, it is windy all year long.",
+        "choices": [
+            "weather",
+            "climate"
+        ],
+        "answer": "B",
+        "hint": "Hint: Weather is what the atmosphere is like at a certain place and time. Climate is the pattern of weather in a certain place.",
+        "task": "closed choice",
+        "grade": "grade4",
+        "subject": "natural science",
+        "topic": "earth-science",
+        "category": "Weather and climate",
+        "skill": "What's the difference between weather and climate?",
+        "lecture": "The atmosphere is the layer of air that surrounds Earth. Both weather and climate tell you about the atmosphere.\nWeather is what the atmosphere is like at a certain place and time. Weather can change quickly. For example, the temperature outside your house might get higher throughout the day.\nClimate is the pattern of weather in a certain place. For example, summer temperatures in New York are usually higher than winter temperatures.",
+        "solution": "Read the text carefully.\nTopeka, Kansas, is located in an open prairie. So, it is windy all year long.\nThis passage tells you about the usual wind pattern in Topeka. It does not describe what the weather is like on a particular day. So, this passage describes the climate.",
+        "input": "",
+        "instruction": "Context: Hint: Weather is what the atmosphere is like at a certain place and time. Climate is the pattern of weather in a certain place.\nQuestion: Does this passage describe the weather or the climate?\nTopeka, Kansas, is located in an open prairie. So, it is windy all year long.\nOptions: (A) weather (B) climate\n",
+        "output": "Answer: The answer is B."
+    }
+]
