@@ -6,11 +6,11 @@ import random
 from tqdm import tqdm
 
 import torch
-from annealMoELoRA_peft_model_hacked import PeftModel
+from src.annealMoELoRA_peft_model_hacked import PeftModel
 from transformers import GenerationConfig, LlamaTokenizer, AutoConfig
 import sys
 from typing import Union
-from annealMoELoRA_modeling_llama_hacked import LlamaForCausalLM_d
+from src.annealMoELoRA_modeling_llama_hacked import LlamaForCausalLM_d
 
 if torch.cuda.is_available():
     device = "cuda"

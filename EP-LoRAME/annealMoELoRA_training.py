@@ -204,9 +204,9 @@ def train(
 
     model = prepare_model_for_int8_training(model)
 
-    wandb.login(key="ae19b3db5bce6b2b8198653f4949b256d644c5c2")
+    wandb.login(key="")
     run = wandb.init(
-        project="scienceqa_new",
+        project="",
         job_type = "training",
     )
 
